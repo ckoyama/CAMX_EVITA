@@ -2,4 +2,4 @@
 CAMX_EVITA_VRM
 
 
-https://raw.githubusercontent.com/ckoyama/CAMX_EVITA/main/file.vrm
+https://raw.githubusercontent.com/ckoyama/CAMX_EVITA/main/CAMX_EVITA_VRM.vrm
